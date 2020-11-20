@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74812586905",
+    "firebase_url": "https://bookshare-3bf63.firebaseio.com",
+    "project_id": "bookshare-3bf63",
+    "storage_bucket": "bookshare-3bf63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74812586905:android:cd7b0ee194ec932c0c3108",
+        "android_client_info": {
+          "package_name": "jalak.book_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74812586905-hf63uqd4t4ru5e96cb7f3mt7gtm4nird.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtTQ-ogOew0YBuLXHWtqhTxQ-_vbrq-48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74812586905-hf63uqd4t4ru5e96cb7f3mt7gtm4nird.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
